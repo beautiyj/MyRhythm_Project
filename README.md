@@ -7,6 +7,19 @@ MyRhythm은 복약 관리와 건강 모니터링을 목표로 한
 이 프로젝트는 단일 플랫폼 구현이 아니라,  
 각 구성 요소가 **명확한 역할과 책임을 갖고 협력하도록 설계된 통합 아키텍처**를 중심으로 구성되었습니다.
 
+- 📄 **[프로젝트 발표자료 보기 (PPT)](https://drive.google.com/file/d/1tS5GGLh4JbOiDIoHs4fY-NlAyH-wvO25/view?usp=sharing)**
+- 📄 **[프로젝트 발표자료 보기 (PDF, 영상X)](https://drive.google.com/file/d/1LWtxzjQSgkgpN_nGaldCcBbC7YBAxhG0/view?usp=sharing)**
+
+- 📱 **[앱 설치 매뉴얼](https://docs.google.com/document/d/1fr5qDq3QG3cRPBIEFDlYBLrX7fv-Eygb/edit?usp=sharing&ouid=100019042496732926316&rtpof=true&sd=true)**
+    
+- 📄 **[프로젝트 팜플렛 1장 요약본](https://docs.google.com/document/d/1TfcAWLR33A8JRmYAHsxa1KugRTIOxdrG/edit?usp=sharing&ouid=100019042496732926316&rtpof=true&sd=true)**
+
+- 📜 **[프로젝트 요약서](https://docs.google.com/document/d/1AvNGWqT9VnWAhAqFMIIRITWYnD3qa2wY/edit?usp=sharing&ouid=100019042496732926316&rtpof=true&sd=true)**
+- 📜 **[프로젝트 기술서](https://docs.google.com/document/d/1rqoQC2pXcvGsGgUL7VckVyzpLELxVVtG/edit?usp=sharing&ouid=100019042496732926316&rtpof=true&sd=true)**
+
+
+
+
 ---
 ## Screenshots
 ### 메인 화면
